@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+}
+.div1 {
+    margin-top: 6%;
+    background-color: #FAFAFA;
+    border: 1px solid #DCDCDC;
+    height: auto;
+    width: 562px;
+    padding: 43px;
+    margin-left: 30%;
+}     
+h {
+    font-size: 30px;
+}
+p {
+    font-size: 19px;
+}
